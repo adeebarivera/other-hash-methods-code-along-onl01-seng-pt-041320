@@ -8,8 +8,8 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
-def get_the_values(groceries)
- groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
- groceries.min
-end
+# def get_the_values(groceries)
+# groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
+# groceries.min
+# end
 
